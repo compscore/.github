@@ -1,1 +1,3 @@
-# .github
+# Compscore
+
+Compscore Cyber Competition Scoring Platform
